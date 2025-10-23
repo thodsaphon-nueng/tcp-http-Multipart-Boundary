@@ -80,6 +80,39 @@ curl -X POST http://127.0.0.1:8080/upload \
  ```
 
 
+
+## Figures of screenshot of the project
+
+
+
+</br>
+
+
+<img width="965" height="234" alt="Image" src="https://github.com/user-attachments/assets/db05d0d5-a485-4bf6-b03c-dc2f9fd894ea" />
+<div align="center">
+  Fig 1
+</div>
+</br>
+
+<img width="1351" height="890" alt="Image" src="https://github.com/user-attachments/assets/5e22156f-649a-4d6b-88de-2091b90f654b" />
+<div align="center">
+  Fig 2
+</div>
+</br>
+
+<img width="1237" height="849" alt="Image" src="https://github.com/user-attachments/assets/3088dac1-0ad0-4942-a4e0-a964c4516e5c" />
+<div align="center">
+  Fig 3
+</div>
+</br>
+
+
+
+
+
+
+
+
 > [NOTE!!]
 > lab นี้ควรอ่าน lab ก่่อนหน้าของผมมาเพื่อ เข้าใจที่ดีขึ้น
 > https://github.com/thodsaphon-nueng/tcp_kernel_buffer_sl_flow_control
